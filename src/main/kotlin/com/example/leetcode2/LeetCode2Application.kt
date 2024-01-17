@@ -1,7 +1,6 @@
 package com.example.leetcode2
 
-import com.example.leetcode2.beginner.RichestCustomerWealth
-import com.example.leetcode2.beginner.RunningSum1DArray
+import com.example.leetcode2.easy.RichestCustomerWealth
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 

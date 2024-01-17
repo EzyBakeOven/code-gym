@@ -1,4 +1,4 @@
-package com.example.leetcode2.beginner
+package com.example.leetcode2.easy
 
 /**
  * https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/692/challenge-problems/4423/

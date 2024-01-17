@@ -1,4 +1,4 @@
-package com.example.leetcode2.beginner
+package com.example.leetcode2.easy
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
